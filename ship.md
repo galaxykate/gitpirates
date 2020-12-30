@@ -2,7 +2,7 @@
 
 # Crew manifest:
 * a dusty skeleton
-* a giant red parrot with green spots
+* a giant red parrot with green tail feathers and zebra stripes
 
 # Location
 Becalmed in the sargasso
