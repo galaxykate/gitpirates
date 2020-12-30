@@ -2,7 +2,7 @@
 
 # Crew manifest:
 * a dusty skeleton
-* a hungry blue parrot
+* a giant red parrot
 
 # Location
 Becalmed in the sargasso
