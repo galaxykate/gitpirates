@@ -2,8 +2,7 @@
 
 # Crew manifest:
 * a dusty skeleton
-* a hungry blue parrot
-* a [small gerbil](./gerbil.md)
+* a giant red parrot with green tail feathers and zebra stripes
 
 # Location
 Becalmed in the sargasso
